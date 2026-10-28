@@ -2,4 +2,3 @@ checkpoints/
 .venv/
 data/
 __pycache__/
-.gitignore
